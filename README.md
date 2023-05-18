@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @babbaluce86
-- 👀 I’m interested in Data Science, Machine Learning and Algorithmic Trading
+- 👀 I have many interests, I like learning
 - 🌱 I’m currently learning a lot 
-- 💞️ I’m looking to collaborate on any Algorithmic Trading projects, Quantitative Research projects and Data Science
+- 💞️ Feel free to write me for some collaborations, I only commit to what I like
 - 📫 How to reach me babbaluce86@gmail.com
 
 <!---
